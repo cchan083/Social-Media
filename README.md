@@ -1,8 +1,10 @@
 # Social-Media
-Analysing Social Media use in the USA
+Analysing Social Media use in the USA 
+
+Information on the dataset can be found here : https://www.kaggle.com/datasets/muhammadroshaanriaz/time-wasters-on-social-media
 
 
-Investigating these questions:
+## Investigating these questions:
 
 What is the engagement like on each video category? 
 
