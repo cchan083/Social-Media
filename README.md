@@ -1,5 +1,16 @@
 # Social-Media
 Analysing Social Media use in the USA
 
-What affects the daily time of social media use?
-How can this daily time affect our lives?
+
+Investigating these questions:
+
+What is the engagement like on each video category? 
+
+Why are some engagement scores on video categories lower than others? 
+
+What content leads to the most Productivity loss and procrastination? 
+
+Does the type of video you watch affect income? 
+
+Do younger people have less self control than older people? 
+
